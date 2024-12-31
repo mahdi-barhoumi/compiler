@@ -1,0 +1,7 @@
+program programtest;
+var var1, var2 : integer;
+var var3 : char;
+begin
+read(i);
+i = i + 1;         (* incrementing i *)
+end.

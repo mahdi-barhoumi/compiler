@@ -1,0 +1,9 @@
+program test;
+var i, j : integer;
+var c : char;
+begin
+read(i);
+i := i + 1;         (* incrementing i *)
+if (i) > (2) then writeln(i) else writeln(c)
+while i > 2 do writeln(i);
+end.
